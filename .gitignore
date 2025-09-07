@@ -20,3 +20,7 @@ Package.resolved
 .vscode/
 *.swp
 *.swo
+
+# XCFramework (stored externally)
+*.xcframework/
+*.xcframework.zip

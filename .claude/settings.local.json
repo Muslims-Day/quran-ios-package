@@ -4,7 +4,12 @@
       "Bash(mkdir:*)",
       "Bash(git lfs:*)",
       "Bash(brew install:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(git rm:*)",
+      "Bash(rm:*)",
+      "Bash(zip:*)",
+      "Bash(git reset:*)"
     ],
     "defaultMode": "acceptEdits"
   }
