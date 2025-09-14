@@ -24,3 +24,4 @@ Package.resolved
 # XCFramework (stored externally)
 *.xcframework/
 *.xcframework.zip
+*DerivedData
