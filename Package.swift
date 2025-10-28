@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "KahfQuranSdk",
-            url: "https://github.com/Muslims-Day/quran-ios-package/releases/download/v1.1.5/KahfQuranSdk.xcframework.zip",
-            checksum: "52cb0ee076edc3a64d71feed8e14888e3e070fbd581c0d0e1444badf36cbae2a"
+            url: "https://github.com/Muslims-Day/quran-ios-package/releases/download/v1.1.6/KahfQuranSdk.xcframework.zip",
+            checksum: "f55c6b8c877309ee62c6bfe27201182fa3020dd84beefd7dda28bb8d2f350bb0"
         )
     ]
 )
